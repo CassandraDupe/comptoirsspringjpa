@@ -33,7 +33,7 @@ public class LigneService {
      * Règles métier :
      *     - le produit référencé doit exister
      *     - la commande doit exister
-     *     - la commande ne doit pas être déjà envoyée (le champ 'envoyeele' doit être null)
+     *     - la commande ne doit pas être déjà envoyée (le champ 'envoyelee' doit être null)
      *     - la quantité doit être positive
      *     - On doit avoir une quantite en stock du produit suffisante
      * <pre>
